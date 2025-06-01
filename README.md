@@ -1,2 +1,2 @@
 # Onion23
-My attempt on creating a coding quiz stuff
+My attempt on creating an opinion rating website stuff
