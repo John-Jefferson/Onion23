@@ -1,0 +1,12 @@
+.bodyStyle{
+    background-color: #c5c6ba;
+}
+.allButtonsDiv{
+    display: grid;
+}
+.mainUpperButtonDiv{
+    display: flex;
+}
+.createButtonDiv{
+    display: grid;
+}
